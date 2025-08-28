@@ -48,16 +48,6 @@ FocusGuard is designed with **security, usability, and stealth** in mind.
 
 ---
 
-## Screenshots
-
-### Android UI
-![Android UI](./assets/android-ui.png)
-
-### Windows Service
-![Windows Service Logs](./assets/windows-logs.png)
-
-> *Screenshots are placeholders; update with real images after building the project.*
-
 ---
 
 ## Installation
