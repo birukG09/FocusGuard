@@ -99,5 +99,6 @@ Roadmap
  Cloud sync of blocklists and focus sessions.
 
  Timer and schedule for automatic focus sessions.
+Developed by 👨‍💻 Biruk G. – stay focused, stay productive!  
+Join the coding journey 🧑‍💻🚀
 
- MacOS/Linux version.
