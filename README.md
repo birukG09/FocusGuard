@@ -4,8 +4,10 @@
 Stay focused with **FocusGuard** ⏰💻🚀  
 Block distracting apps like TikTok 📱❌ and gain productivity 📝✅  
 Track your time ⏳ and efficiency 📈 with ease!
+<p align="center">
+  <img src="https://github.com/birukG09/FocusGuard/blob/2abe196c7481eab6fbde72fe3bc160d3a1d54097/2662154102canva%20design.png" alt="FocusGuard Banner" style="width:100%; max-width:100%;">
+</p>
 
----
 
 ## Overview
 
