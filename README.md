@@ -1,6 +1,6 @@
 # FocusGuard 🚀
 🕒📈✅💻⚡🖥️🛠️👨‍💻
-*Banner concept: shield + clock protecting your productivity by blocking distracting apps like TikTok, Instagram, YouTube, Snapchat, and more.*
+shield + clock protecting your productivity by blocking distracting apps like TikTok, Instagram, YouTube, Snapchat, and more.*
 Stay focused with **FocusGuard** ⏰💻🚀  
 Block distracting apps like TikTok 📱❌ and gain productivity 📝✅  
 Track your time ⏳ and efficiency 📈 with ease!
