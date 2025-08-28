@@ -1,0 +1,33 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FocusGuard – Block Distracting Apps"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <Switch
+        android:id="@+id/switchStealth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enable Stealth Mode (hide icon)" />
+
+    <Button
+        android:id="@+id/btnManageList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Manage Blocklist" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvBlocked"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="12dp"/>
+</LinearLayout>

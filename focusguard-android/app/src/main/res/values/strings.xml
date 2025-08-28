@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="app_name">FocusGuard</string>
+    <string name="accessibility_description">Blocks configured distracting apps by returning you to Home and showing a focus overlay.</string>
+</resources>
