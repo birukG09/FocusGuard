@@ -55,7 +55,7 @@ FocusGuard is designed with **security, usability, and stealth** in mind.
 ## Installation
 
 ### Android
-1. Open the `focusguard-android` project in **Android Studio**.
+1. Open the `focusguard-android` project in **Android Studio**..
 2. Build and install on your device (minSdk 26+).
 3. Go to **Settings → Accessibility → FocusGuard** and enable the service.
 4. Add apps to your blocklist and activate Stealth Mode if desired.
